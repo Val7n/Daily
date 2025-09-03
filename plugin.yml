@@ -1,0 +1,13 @@
+name: Daily
+author: Albert3643
+api: 5.0.0
+version: 1.0.0
+main: Albert3643\Main
+
+permissions:
+  daily.op:
+    default: op
+  daily.command:
+    default: true
+  daily.command.edit:
+    default: op
